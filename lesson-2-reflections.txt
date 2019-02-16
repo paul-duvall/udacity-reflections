@@ -1,0 +1,13 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+The folder becomes a git repository. This is necesssary if you want to use git to track
+edits in files held in that folder.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+The staging area exists between the working directory and the repository and acts as 
+an inbetween stage between the two. It contains files that have been worked on in the 
+working directory and then flagged to be added to the repository.
+It allows the user to develop a full picture of what will be added to the repository in
+the next commit.
