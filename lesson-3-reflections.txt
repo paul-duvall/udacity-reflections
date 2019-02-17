@@ -1,1 +1,3 @@
 When would you want to create a remote repository rather than keeping all your work local?
+
+This would be necessary whenever you want your repository to be available to others. Repositories can be made publich on Github so that anyone can view them or potentially contribute, or private so that they can be shared with a specific group of people.
