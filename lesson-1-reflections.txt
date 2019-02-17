@@ -60,3 +60,5 @@ back and check previous commits to establish when the bug was introduced.
 Now that you have your workspace set up, what do you want to try using Git for?
 
 I want to use git to create a more real-world-like workflow when working on my updated profile.
+
+Here's a change.
