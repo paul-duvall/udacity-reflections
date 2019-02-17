@@ -22,3 +22,13 @@ By using the staging area, it isn't necessary to include every file that has bee
 the same commit. Add the files to the staging area that are relevant to the current
 commit, leaving out any files that have been changed but are not relevant to the change
 that the current commit focuses on.
+
+- - - - -
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branching can help in situations where you want to make changes to the respository but
+you want to retain an original version that will not show these changes. For example, if you
+want to try out a new experimental feature, you can create a new branch to build and experiment
+with that feature without affect the original version (which could continue with other changes
+and commits unrelated to the new feature you are experimenting on in the new branch).
