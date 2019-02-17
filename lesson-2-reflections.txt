@@ -40,3 +40,19 @@ How do the diagrams help you visualize the branch structure?
 The idea of branches of a repository is much easy to understand if you are able to visualise the
 different branches using a diagram. This can show the relationship between the different branches
 and where each branch started and what the last commit was before the new branch began.
+
+- - - - -
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that git combines all the commits from both branches in a new commit that now represents
+the head of the master branch.
+
+It is represented in the diagram as a new commit that joins both of the previous branches together.
+
+- - - - -
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging is more time efficient. However, merging manually allows more control and ensure
+fewer conflict issues are introduced.
