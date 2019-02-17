@@ -32,3 +32,11 @@ you want to retain an original version that will not show these changes. For exa
 want to try out a new experimental feature, you can create a new branch to build and experiment
 with that feature without affect the original version (which could continue with other changes
 and commits unrelated to the new feature you are experimenting on in the new branch).
+
+- - - - - 
+
+How do the diagrams help you visualize the branch structure?
+
+The idea of branches of a repository is much easy to understand if you are able to visualise the
+different branches using a diagram. This can show the relationship between the different branches
+and where each branch started and what the last commit was before the new branch began.
