@@ -18,3 +18,9 @@ A branch is a part of a repository that operates independently of the rest. It c
 be merged with other branches at any time. A clone is a copy of a repository that operates independently of the original.
 A fork is also a copy of a repository but it retains a connection to the original (it is marked as a fork of the orignal, and the
 original tracks how many forks have been made.
+
+- - - - -
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Comparisons to the remote can be made even if there isn't an internet connection.
