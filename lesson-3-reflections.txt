@@ -9,3 +9,12 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Not too sure! Perhaps if the remote repository were being worked upon by other people, you wouldn't want those changes integrated into
 your local repository necessarily.
+
+- - - - -
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A branch is a part of a repository that operates independently of the rest. It can contain any number of commits and can
+be merged with other branches at any time. A clone is a copy of a repository that operates independently of the original.
+A fork is also a copy of a repository but it retains a connection to the original (it is marked as a fork of the orignal, and the
+original tracks how many forks have been made.
